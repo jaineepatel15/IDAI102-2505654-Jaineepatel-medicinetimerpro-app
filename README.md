@@ -1,5 +1,6 @@
 # IDAI102-2505654-Jaineepatel-medicinetimerpro-app
 MedTimer Pro is a simple and friendly app that helps users track their daily medicines, mark doses as taken, and stay motivated with progress tracking and streaks, promoting healthy and consistent habits.
+
 Overview:
 MedTimer Pro is a simple and easy medicine tracker app made with Python and Streamlit. It helps users remember to take their medicines on time every day. The app shows the list of medicines for the day, allows marking them as taken, and tracks your progress and streak over time.
 
