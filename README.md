@@ -32,3 +32,6 @@ Simple layout with titles, buttons, and progress indicators.
 Uses icons to represent medicine types (e.g. pill or syrup).
 Motivational messages help encourage users.
 Designed to be simple, friendly, and easy to use for all age groups.
+
+Streamlit- https://idai102-2505654-jaineepatel-medicinetimerpro-app-2zunqbsvedo7r.streamlit.app/ 
+
